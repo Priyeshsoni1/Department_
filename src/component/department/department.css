@@ -1,0 +1,67 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(226, 222, 216);
+}
+.department
+{
+    width: 100%;
+    height: 100vh-50px;
+
+
+}
+.container
+{
+   
+    
+    background-color: rgb(240, 229, 229);
+    padding: 50px
+
+
+}
+.departmentName
+{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.dropdownDepartment
+{
+margin-left: 150px;
+}
+.description
+{
+    margin-bottom: 20px;
+}
+.descr
+{
+    margin-right: 190px;
+}
+.date{
+    display: flex;
+}
+.startdate
+{
+    margin-right: 200px;
+}
+.buttons{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.search
+{
+    margin-top: 20px;
+    display: flex;
+}
+.searchbut{
+margin-right: 200px;
+}
+.description{
+    display: flex;
+
+}
+.descdetail{
+    background-color: rgb(232, 224, 224);
+}
